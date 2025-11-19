@@ -5,7 +5,7 @@ Detta kan röra allt ifrån YouTube-filmer ooch gamla inspelningar där vi gått
 
 ## Allmänna "bra att ha"-länkar
 
-* [Mötesbokningar fullstackprojekt]()
+* [Sprint Reviewbokningar fullstackprojekt](https://docs.google.com/spreadsheets/d/1E0R8hO6KOydRr7Hrp391vpUyA1T0rHuQR6SO8B8WHQg/edit?usp=sharing)
 * [User Stories för projektet](https://github.com/users/Santosnr6/projects/21)
 
 ## Content Security Policy
