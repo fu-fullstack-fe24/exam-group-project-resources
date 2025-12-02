@@ -17,3 +17,5 @@ Detta kan röra allt ifrån YouTube-filmer ooch gamla inspelningar där vi gått
 ## Lecture Code
 
 ## Lecture Movies
+
+* [Hantera Credentials](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Distans/IQBi35BYCzvjQ6UBgtq1xEP9AQZI7cF1i8SenJtXK60yijE?e=rbBDyD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
