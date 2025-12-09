@@ -10,6 +10,8 @@ Detta kan röra allt ifrån YouTube-filmer ooch gamla inspelningar där vi gått
 
 ## Content Security Policy
 
+* [Dokumentation CSP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/CSP)
+
 ## S3 Buckets
 
 * [Ladda upp bild i S3 bucket](https://vimeo.com/857088650/4c44e8a1a0)
@@ -17,7 +19,9 @@ Detta kan röra allt ifrån YouTube-filmer ooch gamla inspelningar där vi gått
 ## Lecture Code
 
 * [Cookies och Content Security Policy](https://github.com/fu-fullstack-fe24/week-50-lecture-9-dec)
+* [Kodexempel CSP med Christoffer](https://github.com/FE24-Fullstack-webbapplikation-med-TS/live-9-december)
 
 ## Lecture Movies
 
 * [Hantera Credentials](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Distans/IQBi35BYCzvjQ6UBgtq1xEP9AQZI7cF1i8SenJtXK60yijE?e=rbBDyD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+* [Content Security Policy](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Distans/IQC4kaZTLBS_TZvC-BL82rN2AVoEJ1_yBc5bOORFgJXhbas?e=5NaLJU)
